@@ -1,10 +1,10 @@
-# README
+
 
 <h1 align="center">Player de musica</h1>
 <p align='center'> 
- <a href= 'https://www.linkedin.com/in/luan-bortoleto-590490234/'>
- <a href='https://www.instagram.com/luanbortoleto/'>
-
+ <a href= 'https://www.linkedin.com/in/luan-bortoleto-590490234/'>Linkedin</a>
+  <a href='https://www.instagram.com/luanbortoleto/'>Instagram</a>
+  </p>
 <p>Este projeto é uma ideia minha e foi feito com o intuíto de colocar em prática as habilidades adquiridas no curso ProgramadorBr até o módulo HTML- INTERMEDIÁRIO</p>
 
 <p align="center">
